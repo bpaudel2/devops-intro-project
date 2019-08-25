@@ -1,0 +1,28 @@
+---------DevOps Tutorial----------------
+Developer + Operations working together for continous delivery and continuous development.
+CAMS: Culture, Automation, Measurement and Sharing
+
+What is not DevOps?
+- Is not about the tool
+- Is not Developer or Operation alone
+
+Software development:
+- DevOps
+- Agile
+- Continous integration
+- Monitoring
+
+Agile and DevOps are different. Agile includes Plan, Code and Test but not deployment and operation.
+Automating testing is continous integration. Continous delivery also includes release as well. So,
+Agile Development + Continous Integration + Delivery + Operate
+
+-------------------PACKER--------------------------------
+It is a tool that helps creating development and deployment enviroment compatible. 
+It builds standard development image which works both in develpment and production.
+Developer focuses on features but Operations focuses on stability. 
+
+Solving the Enviroment problem:
+- Goldent Image: Unifying production and development enviroment. Bundle APP, LIBS, OS in a golden image of virtual machine.
+- Configuration Management: Install base OS and use configuration management system that automatically install apps and libs in all system.
+
+
